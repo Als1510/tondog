@@ -1,0 +1,105 @@
+
+#title{
+    background-color:beige;
+}
+.container{
+    padding:5%;
+    padding-top:3%;
+    margin-left:5%;
+}
+h1{
+    padding-top: 10%;
+    font-family: 'Anton', sans-serif;
+    font-weight:bolder;
+}
+.title_img{
+align-items: center;
+width: 50%;
+}
+.container1{
+    padding:  2% 8%;
+}
+#pi{
+    text-align:center;
+}
+.fa-lightbulb{
+    color:yellow;
+}
+.fa-heart
+{
+    color:pink;
+}
+.fa-check-circle
+{
+    color:cadetblue;
+}
+#testimonials{
+
+    padding:7% 10%;
+    text-align: center;
+    background-color:antiquewhite;
+  
+}
+h2{
+    font-weight:bolder;
+}
+.tes_im{
+border-radius: 100%;
+width: 10%;
+}
+#press{
+    padding-bottom: 5%;
+    text-align: center;
+    background-color:antiquewhite;
+}
+#pricing{
+background-color:azure;
+    padding: 3%;
+    margin: 3%;
+text-align:center;
+}
+.card{
+    width: 100%;
+    height: 340px;
+    background-color:antiquewhite;
+}
+@media (max-width:900px) {
+    
+    h1{
+        font-size: 50px;
+        color:lightcoral;
+    font-family: sans-serif;
+
+    }
+    #header{
+        text-align: center;
+    }
+    #bu01{
+        display:block;
+        margin-left: 40%;
+    }
+    #bu02{
+        margin-top: 10px;
+        display:block;
+        margin-left: 40%;
+        margin-bottom: 5%;
+    
+    }
+    .title_img
+    {
+        margin: 40;
+    }
+    
+}
+#cta{
+margin: 3%;
+padding: 3%;
+background-color:azure;
+text-align: center;
+font-size:medium;
+font-weight: bold;
+}
+h3{
+    font-size: 30px;
+    font-weight: bolder;
+}
