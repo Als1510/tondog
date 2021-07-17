@@ -1,11 +1,11 @@
 
 #title{
     background-color:beige;
+    align-items: center;
 }
 .container{
-    padding:5%;
-    padding-top:3%;
-    margin-left:5%;
+align-items: center;
+    text-align: center;
 }
 h1{
     padding-top: 10%;
@@ -63,7 +63,7 @@ text-align:center;
     height: 340px;
     background-color:antiquewhite;
 }
-@media (max-width:1200px) {
+@media (max-width:900px) {
     
     h1{
         font-size: 50px;
@@ -89,7 +89,14 @@ text-align:center;
     {
         margin: 40;
     }
-    
+    .press_ima
+    {
+        margin: 5%;
+    }
+    .card
+    {
+        margin:2%
+    }
 }
 #cta{
 margin: 3%;
